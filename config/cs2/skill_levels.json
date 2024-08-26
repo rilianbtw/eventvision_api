@@ -1,0 +1,52 @@
+{
+  "1": {
+    "min_faceit_elo": 100,
+    "max_faceit_elo": 500,
+    "icon": "assets\\ranks\\faceit\\1.png"
+  },
+  "2": {
+    "min_faceit_elo": 501,
+    "max_faceit_elo": 750,
+    "icon": "assets\\ranks\\faceit\\2.png"
+  },
+  "3": {
+    "min_faceit_elo": 751,
+    "max_faceit_elo": 900,
+    "icon": "assets\\ranks\\faceit\\3.png"
+  },
+  "4": {
+    "min_faceit_elo": 901,
+    "max_faceit_elo": 1050,
+    "icon": "assets\\ranks\\faceit\\4.png"
+  },
+  "5": {
+    "min_faceit_elo": 1051,
+    "max_faceit_elo": 1200,
+    "icon": "assets\\ranks\\faceit\\5.png"
+  },
+  "6": {
+    "min_faceit_elo": 1201,
+    "max_faceit_elo": 1350,
+    "icon": "assets\\ranks\\faceit\\6.png"
+  },
+  "7": {
+    "min_faceit_elo": 1351,
+    "max_faceit_elo": 1530,
+    "icon": "assets\\ranks\\faceit\\7.png"
+  },
+  "8": {
+    "min_faceit_elo": 1531,
+    "max_faceit_elo": 1750,
+    "icon": "assets\\ranks\\faceit\\8.png"
+  },
+  "9": {
+    "min_faceit_elo": 1751,
+    "max_faceit_elo": 2000,
+    "icon": "assets\\ranks\\faceit\\9.png"
+  },
+  "10": {
+    "min_faceit_elo": 2001,
+    "max_faceit_elo": null,
+    "icon": "assets\\ranks\\faceit\\10.png"
+  }
+}
