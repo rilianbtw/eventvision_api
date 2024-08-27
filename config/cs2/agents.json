@@ -3,60 +3,60 @@
     "agent": "Counter Terrorist",
     "type": "Gendarmerie Nationale",
     "name": "Officer Jacques Beltram",
-    "image": "assets\\characters\\cs2\\ct\\1.png"
+    "image": "assets/characters/cs2/ct/1.png"
   },
   "ct_2": {
     "agent": "Counter Terrorist",
     "type": "KSK",
     "name": "3rd Commando Company",
-    "image": "assets\\characters\\cs2\\ct\\2.png"
+    "image": "assets/characters/cs2/ct/2.png"
   },
   "ct_3": {
     "agent": "Counter Terrorist",
     "type": "SAS",
     "name": "Default",
-    "image": "assets\\characters\\cs2\\ct\\3.png"
+    "image": "assets/characters/cs2/ct/3.png"
   },
   "ct_4": {
     "agent": "Counter Terrorist",
     "type": "FBI HRT",
     "name": "Markus Delrow",
-    "image": "assets\\characters\\cs2\\ct\\4.png"
+    "image": "assets/characters/cs2/ct/4.png"
   },
   "ct_5": {
     "agent": "Counter Terrorist",
     "type": "Brazilian 1st Battalion",
     "name": "Primeiro Tenente",
-    "image": "assets\\characters\\cs2\\ct\\5.png"
+    "image": "assets/characters/cs2/ct/5.png"
   },
   "t_1": {
     "agent": "Terrorist",
     "type": "The Professionals",
     "name": "Little Kev",
-    "image": "assets\\characters\\cs2\\t\\1.png"
+    "image": "assets/characters/cs2/t/1.png"
   },
   "t_2": {
     "agent": "Terrorist",
     "type": "Guerrilla Warfare",
     "name": "Elite Trapper Solman",
-    "image": "assets\\characters\\cs2\\t\\2.png"
+    "image": "assets/characters/cs2/t/2.png"
   },
   "t_3": {
     "agent": "Terrorist",
     "type": "Phoenix",
     "name": "Default",
-    "image": "assets\\characters\\cs2\\t\\3.png"
+    "image": "assets/characters/cs2/t/3.png"
   },
   "t_4": {
     "agent": "Terrorist",
     "type": "Elite Crew",
     "name": "Jungle Rebel",
-    "image": "assets\\characters\\cs2\\t\\4.png"
+    "image": "assets/characters/cs2/t/4.png"
   },
   "t_5": {
     "agent": "Terrorist",
     "type": "Sabre",
     "name": "Dragomir",
-    "image": "assets\\characters\\cs2\\t\\5.png"
+    "image": "assets/characters/cs2/t/5.png"
   }
 }

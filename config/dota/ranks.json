@@ -3,234 +3,234 @@
     "rank_tier": null,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\uncalibrated.png"
+    "icon": "assets/ranks/dota/uncalibrated.png"
   },
   "Herald 1": {
     "rank_tier": 11,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\herald_1.png"
+    "icon": "assets/ranks/dota/herald_1.png"
   },
   "Herald 2": {
     "rank_tier": 12,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\herald_2.png"
+    "icon": "assets/ranks/dota/herald_2.png"
   },
   "Herald 3": {
     "rank_tier": 13,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\herald_3.png"
+    "icon": "assets/ranks/dota/herald_3.png"
   },
   "Herald 4": {
     "rank_tier": 14,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\herald_4.png"
+    "icon": "assets/ranks/dota/herald_4.png"
   },
   "Herald 5": {
     "rank_tier": 15,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\herald_5.png"
+    "icon": "assets/ranks/dota/herald_5.png"
   },
   "Guardian 1": {
     "rank_tier": 21,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\guardian_1.png"
+    "icon": "assets/ranks/dota/guardian_1.png"
   },
   "Guardian 2": {
     "rank_tier": 22,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\guardian_2.png"
+    "icon": "assets/ranks/dota/guardian_2.png"
   },
   "Guardian 3": {
     "rank_tier": 23,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\guardian_3.png"
+    "icon": "assets/ranks/dota/guardian_3.png"
   },
   "Guardian 4": {
     "rank_tier": 24,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\guardian_4.png"
+    "icon": "assets/ranks/dota/guardian_4.png"
   },
   "Guardian 5": {
     "rank_tier": 25,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\guardian_5.png"
+    "icon": "assets/ranks/dota/guardian_5.png"
   },
   "Crusader 1": {
     "rank_tier": 31,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\crusader_1.png"
+    "icon": "assets/ranks/dota/crusader_1.png"
   },
   "Crusader 2": {
     "rank_tier": 32,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\crusader_2.png"
+    "icon": "assets/ranks/dota/crusader_2.png"
   },
   "Crusader 3": {
     "rank_tier": 33,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\crusader_3.png"
+    "icon": "assets/ranks/dota/crusader_3.png"
   },
   "Crusader 4": {
     "rank_tier": 34,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\crusader_4.png"
+    "icon": "assets/ranks/dota/crusader_4.png"
   },
   "Crusader 5": {
     "rank_tier": 35,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\crusader_5.png"
+    "icon": "assets/ranks/dota/crusader_5.png"
   },
   "Archon 1": {
     "rank_tier": 41,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\archon_1.png"
+    "icon": "assets/ranks/dota/archon_1.png"
   },
   "Archon 2": {
     "rank_tier": 42,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\archon_2.png"
+    "icon": "assets/ranks/dota/archon_2.png"
   },
   "Archon 3": {
     "rank_tier": 43,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\archon_3.png"
+    "icon": "assets/ranks/dota/archon_3.png"
   },
   "Archon 4": {
     "rank_tier": 44,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\archon_4.png"
+    "icon": "assets/ranks/dota/archon_4.png"
   },
   "Archon 5": {
     "rank_tier": 45,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\archon_5.png"
+    "icon": "assets/ranks/dota/archon_5.png"
   },
   "Legend 1": {
     "rank_tier": 51,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\legend_1.png"
+    "icon": "assets/ranks/dota/legend_1.png"
   },
   "Legend 2": {
     "rank_tier": 52,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\legend_2.png"
+    "icon": "assets/ranks/dota/legend_2.png"
   },
   "Legend 3": {
     "rank_tier": 53,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\legend_3.png"
+    "icon": "assets/ranks/dota/legend_3.png"
   },
   "Legend 4": {
     "rank_tier": 54,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\legend_4.png"
+    "icon": "assets/ranks/dota/legend_4.png"
   },
   "Legend 5": {
     "rank_tier": 55,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\legend_5.png"
+    "icon": "assets/ranks/dota/legend_5.png"
   },
   "Ancient 1": {
     "rank_tier": 61,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\ancient_1.png"
+    "icon": "assets/ranks/dota/ancient_1.png"
   },
   "Ancient 2": {
     "rank_tier": 62,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\ancient_2.png"
+    "icon": "assets/ranks/dota/ancient_2.png"
   },
   "Ancient 3": {
     "rank_tier": 63,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\ancient_3.png"
+    "icon": "assets/ranks/dota/ancient_3.png"
   },
   "Ancient 4": {
     "rank_tier": 64,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\ancient_4.png"
+    "icon": "assets/ranks/dota/ancient_4.png"
   },
   "Ancient 5": {
     "rank_tier": 65,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\ancient_5.png"
+    "icon": "assets/ranks/dota/ancient_5.png"
   },
   "Divine 1": {
     "rank_tier": 71,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\divine_1.png"
+    "icon": "assets/ranks/dota/divine_1.png"
   },
   "Divine 2": {
     "rank_tier": 72,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\divine_2.png"
+    "icon": "assets/ranks/dota/divine_2.png"
   },
   "Divine 3": {
     "rank_tier": 73,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\divine_3.png"
+    "icon": "assets/ranks/dota/divine_3.png"
   },
   "Divine 4": {
     "rank_tier": 74,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\divine_4.png"
+    "icon": "assets/ranks/dota/divine_4.png"
   },
   "Divine 5": {
     "rank_tier": 75,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\divine_5.png"
+    "icon": "assets/ranks/dota/divine_5.png"
   },
   "Immortal 1": {
     "rank_tier": 80,
     "min_leaderboard_rank": null,
     "max_leaderboard_rank": null,
-    "icon": "assets\\ranks\\dota\\immortal_1.png"
+    "icon": "assets/ranks/dota/immortal_1.png"
   },
   "Immortal 2": {
     "rank_tier": 80,
     "min_leaderboard_rank": 100,
     "max_leaderboard_rank": 11,
-    "icon": "assets\\ranks\\dota\\immortal_2.png"
+    "icon": "assets/ranks/dota/immortal_2.png"
   },
   "Immortal 3": {
     "rank_tier": 80,
     "min_leaderboard_rank": 10,
     "max_leaderboard_rank": 1,
-    "icon": "assets\\ranks\\dota\\immortal_3.png"
+    "icon": "assets/ranks/dota/immortal_3.png"
   }
 }
